@@ -1,0 +1,16 @@
+{
+  "name": "tarefa-ebac-15-node-e-sass",
+  "version": "1.0.0",
+  "description": "Primeiro projeto usando o Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaycke",
+  "license": "ISC",
+  "dependencies": {
+    "-": "^0.0.1",
+    "g": "^2.0.1",
+    "sass": "^1.70.0"
+  }
+}
